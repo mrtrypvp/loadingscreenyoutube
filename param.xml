@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<param>
+<servername_dis>
+  <cnt>0</cnt>
+</servername_dis>
+<gamemode_dis>
+  <cnt>0</cnt>
+</gamemode_dis>
+<map_dis>
+  <cnt>0</cnt>
+</map_dis>
+<slots_dis>
+  <cnt>0</cnt>
+</slots_dis>
+<addons_dis>
+  <cnt>0</cnt>
+</addons_dis>
+<addon_edit>
+  <cnttex>Addons<br />Addons</cnttex>
+</addon_edit>
+<rule_1>
+  <cnttex>r1</cnttex>
+</rule_1>
+<rule_2>
+  <cnttex>r2</cnttex>
+</rule_2>
+<rule_3>
+  <cnttex>r3</cnttex>
+</rule_3>
+<rule_4>
+  <cnttex>r4</cnttex>
+</rule_4>
+<rule_5>
+  <cnttex>r5</cnttex>
+</rule_5>
+<rule_6>
+  <cnttex>r6</cnttex>
+</rule_6>
+<rule_7>
+  <cnttex>r7</cnttex>
+</rule_7>
+<pgcol>
+  <cnt>img</cnt>
+</pgcol>
+<cardcol>
+  <cnttex>
+  background-image: -moz-linear-gradient( 90deg, rgb(108,68,252) 0%, rgb(197,68,252) 100%);
+  background-image: -webkit-linear-gradient( 90deg, rgb(108,68,252) 0%, rgb(197,68,252) 100%);
+  background-image: -ms-linear-gradient( 90deg, rgb(108,68,252) 0%, rgb(197,68,252) 100%);
+  </cnttex>
+</cardcol>
+<icons>
+  <cnt>2</cnt>
+</icons>
+</param> 
